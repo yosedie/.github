@@ -13,7 +13,7 @@ We actively support and patch the latest major version of our projects. Please r
 
 We take the security of our projects seriously. If you discover any security-related issues or vulnerabilities, please **DO NOT** open a public issue. Doing so exposes the vulnerability to the public before a fix can be prepared.
 
-Instead, please report security vulnerabilities by emailing us at **yose.die.business@gmail.com** (or your preferred contact email).
+Instead, please report security vulnerabilities by emailing us at **yosedie email** (see my linkedin).
 
 ### What to Include in Your Report
 To help us resolve the issue quickly, please include:
