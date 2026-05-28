@@ -11,7 +11,7 @@ For public questions, troubleshooting, or general usage discussions:
 
 ### 2. Contacting the Author
 For private inquiries, business proposals, or questions that cannot be discussed publicly:
-*   **Email:** You can reach out directly via **yose.die.business@gmail.com**.
+*   **Email:** You can reach out directly via **yosedie email**.
 *   **Website/Portfolio:** Visit [yosedie.github.io](https://yosedie.github.io) for more contact options and social links.
 
 ## Response Time
